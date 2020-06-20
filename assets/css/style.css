@@ -16,6 +16,18 @@
   min-width: 100%;
   min-height: 100%;
 }
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+
+
+
 /* --Video--*/
 
 
@@ -467,7 +479,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   position: relative;
   text-align: center;
 }
-
+/*---------------------------
 #hero-no-slider::before {
   content: '';
   position: absolute;
@@ -489,6 +501,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   z-index: 0;
   border-radius: 0 0 50% 50%;
   transform: translateX(-50%) rotate(0deg);
+
 
 #hero-no-slider h2 {
   color: #fff;
