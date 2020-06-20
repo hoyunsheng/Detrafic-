@@ -1,0 +1,40 @@
+#heroCarousel {
+    z-index: 1;
+}
+
+
+.myVideo{
+    position: absolute;
+    max-height: 750px;
+    width:100%;
+    min-width:100%;
+
+
+    margin: auto;
+    width: 100%;
+    height: 100%;
+    right: -100%;
+    left: -100%;
+    object-fit: cover;
+    z-index: -100;
+}
+
+.intro-section {
+    height: 750px;
+    background: rgba(32, 56, 230, 0.3);
+    position: relative;
+}
+
+.intro-mask-section {
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+    display: block;
+    max-height: none;
+    margin-top: 0;
+    align-self: flex-end;
+    order: 1;
+    text-shadow: 14px 14px 20px #000;
+    width: 100%;
+    height: 180px;
+}
