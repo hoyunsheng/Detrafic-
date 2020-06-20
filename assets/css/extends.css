@@ -56,13 +56,17 @@
     font-size: 20px;
 }
 
-.intro-button:hover {
-    background-color: white;
+.intro-button:hover,
+.intro-button:active,
+.intro-button:not(:disabled):not(.disabled):active,
+.intro-button:not(:disabled):not(.disabled):active:focus,
+.intro-button:focus {
+    background-color: rgba(254, 254, 254, 0.980);
     border-color: white;
     font-family:"Open Sans" sans-serif;
     font-size: 20px;
     color: #3943B7;
-
+    box-shadow: none;
 }
 
 .intro-mask-section {
