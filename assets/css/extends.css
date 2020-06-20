@@ -83,5 +83,7 @@
 }
 
 #header .logo img {
-    max-height: 56px;
+    max-height: 62px;
+    position: relative;
+    top: -9px;
 }
