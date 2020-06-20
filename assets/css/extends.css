@@ -39,19 +39,30 @@
 .intro-title {
     font-size: 64px;
     font-weight: bold;
+    margin-bottom: 24px;
 }
 
 .intro-description {
     font-size: 24px;
     max-width: 900px;
-    margin: 0 auto;
-    font-weight: normal;
+    margin: 0 auto 24px;
+    font-weight: lighter;
 }
 .intro-button {
     margin: 40px auto;
-    background:#78C0E0;
+    background:#3943B7;
+    border-color: #3943B7;
     font-family:"Open Sans" sans-serif;
     font-size: 20px;
+}
+
+.intro-button:hover {
+    background-color: white;
+    border-color: white;
+    font-family:"Open Sans" sans-serif;
+    font-size: 20px;
+    color: #3943B7;
+
 }
 
 .intro-mask-section {
