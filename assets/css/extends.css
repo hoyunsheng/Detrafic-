@@ -21,9 +21,37 @@
 }
 
 .intro-section {
-    height: 750px;
-    background: rgba(32, 56, 230, 0.3);
+    height: 700px;
+    background: rgba(27, 27, 39, 0.7);
     position: relative;
+    color: white;
+    font-family:"Open Sans" sans-serif; 
+    display: flex;
+}
+
+.intro-section-container {
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.intro-title {
+    font-size: 64px;
+    font-weight: bold;
+}
+
+.intro-description {
+    font-size: 24px;
+    max-width: 900px;
+    margin: 0 auto;
+    font-weight: normal;
+}
+.intro-button {
+    margin: 40px auto;
+    background:#78C0E0;
+    font-family:"Open Sans" sans-serif;
+    font-size: 20px;
 }
 
 .intro-mask-section {
@@ -38,5 +66,4 @@
     text-shadow: 14px 14px 20px #000;
     width: 100%;
     height: 180px;
-
 }
