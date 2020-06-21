@@ -808,6 +808,7 @@ color: #483D8B
 
 .why-us .video-box {
   position: relative;
+  text-align: right;
 }
 
 .why-us .video-box img {
