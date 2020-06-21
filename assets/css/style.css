@@ -749,10 +749,6 @@ color: #483D8B
 /*--------------------------------------------------------------
 # Why Us
 --------------------------------------------------------------*/
-.why-us .container {
-  
-  background: #3943B7;
-}
 
 .why-us .icon-box + .icon-box {
   margin-top: 50px;
@@ -808,13 +804,10 @@ color: #483D8B
 
 .why-us .video-box {
   position: relative;
-  text-align: right;
 }
 
 .why-us .video-box img {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  padding-left: 48px;
+  border-radius: 6px;
 }
 
 .why-us .play-btn {
