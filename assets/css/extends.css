@@ -101,3 +101,12 @@
     padding: 60px 0;
 }
 
+/* SECTIONS */
+
+.title-sections {
+    font-size: 40px;
+    font-family:"Open Sans" sans-serif;
+    font-weight: bold;
+    color: #0E0E52;
+}
+
