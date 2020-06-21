@@ -46,7 +46,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6, .font-primary {
-  font-family: "Roboto", sans-serif;
+  font-family: "sans-serif", Roboto;
 }
 
 /*--------------------------------------------------------------
@@ -551,7 +551,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f3f8fa;
+  background-color: #EFFAFF;
 }
 
 .section-title {
@@ -577,7 +577,7 @@ section {
   bottom: 1px;
   left: calc(50% - 60px);
 }
-
+/*--
 .section-title h2::after {
   content: '';
   position: absolute;
@@ -588,10 +588,17 @@ section {
   bottom: 0;
   left: calc(50% - 20px);
 }
+--*/
 
 .section-title p {
   margin-bottom: 0;
 }
+.section-body-color{
+color: #483D8B
+
+}
+
+
 
 /*--------------------------------------------------------------
 # Breadcrumbs
@@ -924,7 +931,11 @@ section {
 .features ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #68A4C4;
+} 
+
+
+.features p:last-child {
+  margin-bottom: 0;
 }
 
 .features p:last-child {
