@@ -101,5 +101,8 @@
     padding: 60px 0;
 }
 
+.menu-items li a:hover {
+    color: #45beff;
+}
 /* SECTIONS */
 
