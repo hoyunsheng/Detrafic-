@@ -2391,3 +2391,13 @@ color: #483D8B
 #footer .credits a {
   color: #a2cce3;
 }
+
+.center-image {
+  margin:auto;
+}
+
+
+.center-image img {
+  box-shadow: 0 4px 12px rgba(0,0,0,.25);
+}
+
