@@ -49,6 +49,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-family: "sans-serif", Roboto;
 }
 
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -551,7 +553,7 @@ section {
 }
 
 .section-bg {
-  background-color: #EFFAFF;
+  background-color: ;
 }
 
 .section-title {
@@ -561,7 +563,7 @@ section {
 
 .section-title h2 {
   font-size: 28px;
-  font-weight: 400;
+  font-weight:400;
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
@@ -577,6 +579,7 @@ section {
   bottom: 1px;
   left: calc(50% - 60px);
 }
+
 /*--
 .section-title h2::after {
   content: '';
