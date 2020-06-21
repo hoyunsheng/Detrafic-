@@ -558,12 +558,12 @@ section {
 
 .section-title {
   text-align: center;
-  padding-bottom: 30px;
+  padding-bottom: 40px;
 }
 
 .section-title h2 {
-  font-size: 28px;
-  font-weight:400;
+  font-size: 40px;
+  font-weight:bold;
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
