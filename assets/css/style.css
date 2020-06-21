@@ -37,7 +37,7 @@ body {
 }
 
 a {
-  color: #4fa6d5;
+  color: #0E0E52;
 }
 
 a:hover {
@@ -750,8 +750,8 @@ color: #483D8B
 # Why Us
 --------------------------------------------------------------*/
 .why-us .container {
-  box-shadow: 0 5px 25px 0 rgba(214, 215, 216, 0.6);
-  background: #fff;
+  
+  background: #3943B7;
 }
 
 .why-us .icon-box + .icon-box {
@@ -813,6 +813,7 @@ color: #483D8B
 .why-us .video-box img {
   padding-top: 15px;
   padding-bottom: 15px;
+  padding-left: 48px;
 }
 
 .why-us .play-btn {
@@ -2401,3 +2402,7 @@ color: #483D8B
   box-shadow: 0 4px 12px rgba(0,0,0,.25);
 }
 
+.title-style h4{
+  font-size: large;
+
+}
