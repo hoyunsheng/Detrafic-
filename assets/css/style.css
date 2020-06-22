@@ -1474,6 +1474,7 @@ color: #483D8B
 
 .team .member .social {
   position: absolute;
+  display: flex;
   left: 0;
   bottom: -40px;
   right: 0;
@@ -1482,6 +1483,11 @@ color: #483D8B
   transition: bottom ease-in-out 0.4s;
   text-align: center;
   background: rgba(14, 14, 82, 0.8);
+  color: white;
+}
+
+.team .member .social h6 {
+  margin: auto;
 }
 
 .team .member .social a {
@@ -1495,6 +1501,8 @@ color: #483D8B
 .team .member .social a:hover {
   color: #68A4C4;
 }
+
+
 
 .team .member .social i {
   font-size: 18px;
