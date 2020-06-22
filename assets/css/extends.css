@@ -100,7 +100,9 @@
     background-color: #F2F4f4;
     padding: 60px 0;
 }
-.blue-background{
+.blue-background,
+.blue-background .team
+{
     background-color:#F2F4f4;
 
 }
