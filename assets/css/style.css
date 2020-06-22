@@ -567,6 +567,8 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
+  color: #0E0E52;
+  font-family:"Open Sans" sans-serif;
 }
 
 .section-title h2::before {
