@@ -124,8 +124,8 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   max-height: 40px;
 }
 
-#main {
-  margin-top: 80px;
+.service-details {
+  margin-top: 60px;
 }
 
 /*--------------------------------------------------------------
