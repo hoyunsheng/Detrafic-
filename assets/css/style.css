@@ -552,13 +552,8 @@ section {
   padding: 60px 0;
 }
 
-.section-bg {
-  background-color: ;
-}
-
 .section-title {
   text-align: center;
-  padding-bottom: 40px;
 }
 
 .section-title h2 {
@@ -938,9 +933,6 @@ color: #483D8B
   margin-bottom: 0;
 }
 
-.features p:last-child {
-  margin-bottom: 50px;
-}
 
 /*--------------------------------------------------------------
 # About
