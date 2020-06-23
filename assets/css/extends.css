@@ -112,3 +112,14 @@
 }
 /* SECTIONS */
 
+.list-items li {
+    display: flex;
+}
+
+.list-items li i{ 
+    margin-top: 2px;    
+}
+
+.image-box img {
+    width: 100%;
+}
