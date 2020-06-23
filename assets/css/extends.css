@@ -123,3 +123,13 @@
 .image-box img {
     width: 100%;
 }
+.video-container {
+    position: relative;
+    height: 600px;
+}
+
+.video-container video {
+ height: 400px;
+ min-width: 700px;
+ width: 700px;
+}
