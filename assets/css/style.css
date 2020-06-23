@@ -32,7 +32,7 @@
 
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Gilroy-Bold", sans-serif;
   color: #444;
 }
 
@@ -46,7 +46,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6, .font-primary {
-  font-family: "sans-serif", Roboto;
+  font-family: "Gilroy-Bold", sans-serif;
 }
 
 }
