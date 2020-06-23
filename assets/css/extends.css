@@ -119,3 +119,7 @@
 .list-items li i{ 
     margin-top: 2px;    
 }
+
+.image-box img {
+    width: 100%;
+}
