@@ -3,8 +3,13 @@
         height: 60px;
     }
 
+    .video-container {
+        height: 750px;
+    }
+    
     .video-container video {
         width: 100%;
         min-width: 100%;
     }
+
   }
