@@ -2,4 +2,9 @@
     .intro-mask-section {
         height: 60px;
     }
+
+    .video-container video {
+        width: 100%;
+        min-width: 100%;
+    }
   }
