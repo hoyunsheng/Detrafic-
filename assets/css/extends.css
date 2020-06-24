@@ -120,6 +120,10 @@
     margin-top: 2px;    
 }
 
+.image-box {
+    padding: 0;
+}
+
 .image-box img {
     width: 100%;
 }
