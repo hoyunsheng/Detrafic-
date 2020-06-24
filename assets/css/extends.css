@@ -145,3 +145,7 @@
  min-width: 700px;
  width: 700px;
 }
+
+.features-container {
+    margin-bottom: 30px;
+}
