@@ -137,13 +137,12 @@
 }
 .video-container {
     position: relative;
-    height: 600px;
+    height: 900px;
 }
 
 .video-container video {
- height: 400px;
+ height: 700px;
  min-width: 700px;
- width: 700px;
 }
 
 .features-container {
